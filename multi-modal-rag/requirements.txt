@@ -1,0 +1,41 @@
+# Core ML/AI Libraries
+langchain==0.1.6
+langchain-community==0.0.20
+langchain-openai==0.0.5
+openai==1.12.0
+
+# Vector Database - UPDATED VERSION
+chromadb==0.4.24
+
+# Document Processing
+unstructured==0.12.4
+pymupdf==1.23.8
+camelot-py[cv]==0.11.0
+tabula-py==2.9.0
+pytesseract==0.3.10
+Pillow==10.2.0
+pdf2image==1.17.0
+
+# Embeddings
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+# Text Processing
+rank-bm25==0.2.2
+
+# UI
+streamlit==1.31.0
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.1
+
+# Evaluation
+ragas==0.1.5
+
+# Testing (optional)
+pytest==8.0.0

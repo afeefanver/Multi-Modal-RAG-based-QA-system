@@ -1,0 +1,888 @@
+{
+  "timestamp": "2025-11-30T09:48:07.961557",
+  "total_questions": 20,
+  "successful": 20,
+  "failed": 0,
+  "results": [
+    {
+      "id": 1,
+      "question": "What was Qatar's real GDP growth in 2023?",
+      "type": "text",
+      "category": "economic_indicators",
+      "expected_answer": "1.2%",
+      "answer": "Based on the information provided in the IMF Article IV report, Qatar's real GDP growth in 2023 was 1.2 percent [Source 1, Page 9].",
+      "answer_preview": "Based on the information provided in the IMF Article IV report, Qatar's real GDP growth in 2023 was 1.2 percent [Source 1, Page 9].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 9,
+          "type": "text",
+          "relevance": 0.544025182723999
+        },
+        {
+          "source_id": 2,
+          "page": 9,
+          "type": "text",
+          "relevance": 0.544025182723999
+        },
+        {
+          "source_id": 3,
+          "page": 9,
+          "type": "text",
+          "relevance": 0.544025182723999
+        },
+        {
+          "source_id": 4,
+          "page": 9,
+          "type": "text",
+          "relevance": 0.544025182723999
+        },
+        {
+          "source_id": 5,
+          "page": 46,
+          "type": "text",
+          "relevance": 0.5321377515792847
+        }
+      ],
+      "num_sources": 5,
+      "latency": 1.280358076095581,
+      "success": true
+    },
+    {
+      "id": 2,
+      "question": "What was Qatar's non-hydrocarbon GDP growth in 2023?",
+      "type": "text",
+      "category": "economic_indicators",
+      "expected_answer": "1.1%",
+      "answer": "Based on the provided information from [Source 5, Page 39], Qatar's non-hydrocarbon GDP in 2023 was 470.8 billion Qatari Riyals. To calculate the growth rate of non-hydrocarbon GDP in 2023, we need the non-hydrocarbon GDP data for the previous year (2022), which is 477.7 billion Qatari Riyals.\n\nThe growth rate formula is: \nNon-hydrocarbon GDP growth rate = ((Non-hydrocarbon GDP in 2023 - Non-hydrocarbon GDP in 2022) / Non-hydrocarbon GDP in 2022) * 100\n\nSubstitute the values:\nNon-hydrocarbon GDP growth rate = ((470.8 - 477.7) / 477.7) * 100\nNon-hydrocarbon GDP growth rate = (-6.9 / 477.7) * 100\nNon-hydrocarbon GDP growth rate ≈ -1.44%\n\nTherefore, Qatar's non-hydrocarbon GDP experienced a slight decline of approximately 1.44% in 2023 compared to 2022.",
+      "answer_preview": "Based on the provided information from [Source 5, Page 39], Qatar's non-hydrocarbon GDP in 2023 was 470.8 billion Qatari Riyals. To calculate the growth rate of non-hydrocarbon GDP in 2023, we need the non-hydrocarbon GDP data for the previous year (2022), which is 477.7 billion Qatari Riyals.\n\nThe ...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 46,
+          "type": "text",
+          "relevance": 0.6066880524158478
+        },
+        {
+          "source_id": 2,
+          "page": 46,
+          "type": "text",
+          "relevance": 0.6066880524158478
+        },
+        {
+          "source_id": 3,
+          "page": 46,
+          "type": "text",
+          "relevance": 0.6066880524158478
+        },
+        {
+          "source_id": 4,
+          "page": 46,
+          "type": "text",
+          "relevance": 0.6066880524158478
+        },
+        {
+          "source_id": 5,
+          "page": 39,
+          "type": "text",
+          "relevance": 0.5206874310970306
+        }
+      ],
+      "num_sources": 5,
+      "latency": 2.088681697845459,
+      "success": true
+    },
+    {
+      "id": 3,
+      "question": "What is Qatar's fiscal surplus target for 2030 according to NDS3?",
+      "type": "text",
+      "category": "fiscal_policy",
+      "expected_answer": "5.5% of GDP",
+      "answer": "Based on the information provided in the IMF Article IV report, Qatar's fiscal surplus target for 2030 is to reach 5½ percent of GDP [Source 5, Page 37].",
+      "answer_preview": "Based on the information provided in the IMF Article IV report, Qatar's fiscal surplus target for 2030 is to reach 5½ percent of GDP [Source 5, Page 37].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 48,
+          "type": "text",
+          "relevance": 0.5408321917057037
+        },
+        {
+          "source_id": 2,
+          "page": 48,
+          "type": "text",
+          "relevance": 0.5408321917057037
+        },
+        {
+          "source_id": 3,
+          "page": 48,
+          "type": "text",
+          "relevance": 0.5408321917057037
+        },
+        {
+          "source_id": 4,
+          "page": 48,
+          "type": "text",
+          "relevance": 0.5408321917057037
+        },
+        {
+          "source_id": 5,
+          "page": 37,
+          "type": "text",
+          "relevance": 0.5354506969451904
+        }
+      ],
+      "num_sources": 5,
+      "latency": 0.7586519718170166,
+      "success": true
+    },
+    {
+      "id": 4,
+      "question": "What is the capital adequacy ratio for Qatar's banks?",
+      "type": "text",
+      "category": "financial_sector",
+      "expected_answer": "Close to 20%",
+      "answer": "Based on the provided context, the capital adequacy ratio for Qatar's banks is not explicitly mentioned. The information primarily focuses on credit and financial sector developments, real private sector credit growth, credit to the public sector, bank foreign liabilities, and changes in the maturity structure of cross-border banks [Source 1-4, Page 38].\n\nUnfortunately, the specific capital adequacy ratio figure for Qatar's banks is not provided in the given excerpts. Additional information or data related to capital adequacy ratios would be needed to accurately determine this ratio for Qatar's banks.",
+      "answer_preview": "Based on the provided context, the capital adequacy ratio for Qatar's banks is not explicitly mentioned. The information primarily focuses on credit and financial sector developments, real private sector credit growth, credit to the public sector, bank foreign liabilities, and changes in the maturit...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.31005144119262695
+        },
+        {
+          "source_id": 2,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.31005144119262695
+        },
+        {
+          "source_id": 3,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.31005144119262695
+        },
+        {
+          "source_id": 4,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.31005144119262695
+        },
+        {
+          "source_id": 5,
+          "page": 40,
+          "type": "text",
+          "relevance": 0.3032432198524475
+        }
+      ],
+      "num_sources": 5,
+      "latency": 22.505131721496582,
+      "success": true
+    },
+    {
+      "id": 5,
+      "question": "What are Qatar's projected GDP growth rates for 2024-2025?",
+      "type": "table",
+      "category": "economic_projections",
+      "expected_answer": "2% for both years",
+      "answer": "Qatar's projected GDP growth rate for 2024-2025 is expected to improve to 2 percent [Source 1, Page 13].",
+      "answer_preview": "Qatar's projected GDP growth rate for 2024-2025 is expected to improve to 2 percent [Source 1, Page 13].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5436553359031677
+        },
+        {
+          "source_id": 2,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5436553359031677
+        },
+        {
+          "source_id": 3,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5436553359031677
+        },
+        {
+          "source_id": 4,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5436553359031677
+        },
+        {
+          "source_id": 5,
+          "page": 9,
+          "type": "text",
+          "relevance": 0.529536247253418
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.212332487106323,
+      "success": true
+    },
+    {
+      "id": 6,
+      "question": "What is Qatar's current account surplus as percent of GDP in 2023?",
+      "type": "table",
+      "category": "external_sector",
+      "expected_answer": "17.1%",
+      "answer": "Based on the information provided in [Source 5, Page 2], Qatar's current account surplus as a percentage of GDP in 2023 was 17 percent.",
+      "answer_preview": "Based on the information provided in [Source 5, Page 2], Qatar's current account surplus as a percentage of GDP in 2023 was 17 percent.",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5737881362438202
+        },
+        {
+          "source_id": 2,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5737881362438202
+        },
+        {
+          "source_id": 3,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5737881362438202
+        },
+        {
+          "source_id": 4,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5737881362438202
+        },
+        {
+          "source_id": 5,
+          "page": 2,
+          "type": "text",
+          "relevance": 0.5492982864379883
+        }
+      ],
+      "num_sources": 5,
+      "latency": 0.9862101078033447,
+      "success": true
+    },
+    {
+      "id": 7,
+      "question": "What is Qatar's central government debt as percent of GDP in 2023?",
+      "type": "table",
+      "category": "fiscal_policy",
+      "expected_answer": "43.7%",
+      "answer": "Based on the information provided in the IMF Article IV report, Qatar's central government debt as a percentage of GDP in 2023 is 20.7% [Source 5, Page 45].",
+      "answer_preview": "Based on the information provided in the IMF Article IV report, Qatar's central government debt as a percentage of GDP in 2023 is 20.7% [Source 5, Page 45].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 37,
+          "type": "text",
+          "relevance": 0.5687184929847717
+        },
+        {
+          "source_id": 2,
+          "page": 37,
+          "type": "text",
+          "relevance": 0.5687184929847717
+        },
+        {
+          "source_id": 3,
+          "page": 37,
+          "type": "text",
+          "relevance": 0.5687184929847717
+        },
+        {
+          "source_id": 4,
+          "page": 37,
+          "type": "text",
+          "relevance": 0.5687184929847717
+        },
+        {
+          "source_id": 5,
+          "page": 45,
+          "type": "text",
+          "relevance": 0.5121594071388245
+        }
+      ],
+      "num_sources": 5,
+      "latency": 41.840370416641235,
+      "success": true
+    },
+    {
+      "id": 8,
+      "question": "What are the main downside risks to Qatar's economic outlook?",
+      "type": "text",
+      "category": "risk_assessment",
+      "expected_answer": "Global growth slowdown, commodity price volatility, geopolitical tensions, real estate weakness",
+      "answer": "Based on the provided context from the IMF Article IV report, the main downside risks to Qatar's economic outlook include a sharper-than-expected global growth slowdown and increased volatility in global financial conditions [Source 1, Page 2], [Source 2, Page 2], [Source 3, Page 2], [Source 4, Page 2], [Source 5, Page 13]. These risks are highlighted as potential challenges that could impact Qatar's economy in the future.",
+      "answer_preview": "Based on the provided context from the IMF Article IV report, the main downside risks to Qatar's economic outlook include a sharper-than-expected global growth slowdown and increased volatility in global financial conditions [Source 1, Page 2], [Source 2, Page 2], [Source 3, Page 2], [Source 4, Page...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 2,
+          "type": "text",
+          "relevance": 0.5610522031784058
+        },
+        {
+          "source_id": 2,
+          "page": 2,
+          "type": "text",
+          "relevance": 0.5610522031784058
+        },
+        {
+          "source_id": 3,
+          "page": 2,
+          "type": "text",
+          "relevance": 0.5610522031784058
+        },
+        {
+          "source_id": 4,
+          "page": 2,
+          "type": "text",
+          "relevance": 0.5610522031784058
+        },
+        {
+          "source_id": 5,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5372916460037231
+        }
+      ],
+      "num_sources": 5,
+      "latency": 1.6863045692443848,
+      "success": true
+    },
+    {
+      "id": 9,
+      "question": "What is the Third National Development Strategy (NDS3)?",
+      "type": "text",
+      "category": "policy",
+      "expected_answer": "Strategy to build diversified, knowledge-based, private sector-led economy",
+      "answer": "The Third National Development Strategy (NDS3) was launched in January 2024 with the aim of achieving sustainable economic growth in Qatar. It focuses on establishing a sustainable medium-term general budget framework with healthy levels of debt, providing a high standard of living to Qataris, and positioning Qatar as a global destination. Additionally, NDS3 aims to boost human capital and innovation, enhance the business environment, attract foreign direct investment (FDI), and promote exports [Source 1, Page 77]. The strategy calls for a transition from a costly state-driven growth model to a private sector-led one, with the state playing a role as an enabler. NDS3 is reform-focused, aiming to build a more sustainable and knowledge-based economy with ambitious targets set [Source 5, Page 8].",
+      "answer_preview": "The Third National Development Strategy (NDS3) was launched in January 2024 with the aim of achieving sustainable economic growth in Qatar. It focuses on establishing a sustainable medium-term general budget framework with healthy levels of debt, providing a high standard of living to Qataris, and p...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.4477582573890686
+        },
+        {
+          "source_id": 2,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.4477582573890686
+        },
+        {
+          "source_id": 3,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.4477582573890686
+        },
+        {
+          "source_id": 4,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.4477582573890686
+        },
+        {
+          "source_id": 5,
+          "page": 8,
+          "type": "text",
+          "relevance": 0.441562294960022
+        }
+      ],
+      "num_sources": 5,
+      "latency": 43.13502764701843,
+      "success": true
+    },
+    {
+      "id": 10,
+      "question": "What is Qatar's inflation rate projection for 2024?",
+      "type": "table",
+      "category": "economic_indicators",
+      "expected_answer": "1.0%",
+      "answer": "Based on the information provided in the IMF Article IV report, Qatar's inflation rate projection for 2024 is 1.2 percent [Source 3, Page 10]. The report mentions that headline inflation decelerated further to 1.2 percent in 2024 through October as rent and recreation services inflation weakened.",
+      "answer_preview": "Based on the information provided in the IMF Article IV report, Qatar's inflation rate projection for 2024 is 1.2 percent [Source 3, Page 10]. The report mentions that headline inflation decelerated further to 1.2 percent in 2024 through October as rent and recreation services inflation weakened.",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 10,
+          "type": "text",
+          "relevance": 0.5603152513504028
+        },
+        {
+          "source_id": 2,
+          "page": 10,
+          "type": "text",
+          "relevance": 0.5603152513504028
+        },
+        {
+          "source_id": 3,
+          "page": 10,
+          "type": "text",
+          "relevance": 0.5603152513504028
+        },
+        {
+          "source_id": 4,
+          "page": 10,
+          "type": "text",
+          "relevance": 0.5603152513504028
+        },
+        {
+          "source_id": 5,
+          "page": 76,
+          "type": "text",
+          "relevance": 0.4128512144088745
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.732377290725708,
+      "success": true
+    },
+    {
+      "id": 11,
+      "question": "What fiscal policy recommendations did the IMF make?",
+      "type": "text",
+      "category": "fiscal_policy",
+      "expected_answer": "Accelerate revenue diversification, introduce VAT, improve spending efficiency",
+      "answer": "Based on the provided context, the IMF made fiscal policy recommendations for Qatar, including enhancing transparency in fiscal reporting. This was supported by an IMF Technical Assistance (TA) mission in 2019, which aimed to transition to the Government Finance Statistics Manual 2014. The IMF encouraged the publication of annual budget documents and quarterly budget performance reports for the central government with headline budget and debt numbers. However, the reports were suggested to include more line items and quarterly debt numbers to provide a more detailed overview of the government's finances [Source 1, Page 70]. Additionally, the prospectus for sovereign euro bond issuance was advised to include detailed information on revenue and expenditure lines to improve transparency in fiscal management [Source 1, Page 70].",
+      "answer_preview": "Based on the provided context, the IMF made fiscal policy recommendations for Qatar, including enhancing transparency in fiscal reporting. This was supported by an IMF Technical Assistance (TA) mission in 2019, which aimed to transition to the Government Finance Statistics Manual 2014. The IMF encou...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 70,
+          "type": "text",
+          "relevance": 0.16243469715118408
+        },
+        {
+          "source_id": 2,
+          "page": 70,
+          "type": "text",
+          "relevance": 0.16243469715118408
+        },
+        {
+          "source_id": 3,
+          "page": 70,
+          "type": "text",
+          "relevance": 0.16243469715118408
+        },
+        {
+          "source_id": 4,
+          "page": 70,
+          "type": "text",
+          "relevance": 0.16243469715118408
+        },
+        {
+          "source_id": 5,
+          "page": 21,
+          "type": "text",
+          "relevance": 0.14431524276733398
+        }
+      ],
+      "num_sources": 5,
+      "latency": 22.47778820991516,
+      "success": true
+    },
+    {
+      "id": 12,
+      "question": "What is Qatar's hydrocarbon export projection for 2024?",
+      "type": "table",
+      "category": "external_sector",
+      "expected_answer": "Around $82.9 billion",
+      "answer": "Based on the provided information from the IMF Article IV report, Qatar's hydrocarbon export projection for 2024 is estimated to be $82.9 billion [Source 1].",
+      "answer_preview": "Based on the provided information from the IMF Article IV report, Qatar's hydrocarbon export projection for 2024 is estimated to be $82.9 billion [Source 1].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 40,
+          "type": "text",
+          "relevance": 0.4284658432006836
+        },
+        {
+          "source_id": 2,
+          "page": 40,
+          "type": "text",
+          "relevance": 0.4284658432006836
+        },
+        {
+          "source_id": 3,
+          "page": 40,
+          "type": "text",
+          "relevance": 0.4284658432006836
+        },
+        {
+          "source_id": 4,
+          "page": 40,
+          "type": "text",
+          "relevance": 0.4284658432006836
+        },
+        {
+          "source_id": 5,
+          "page": 11,
+          "type": "text",
+          "relevance": 0.40909767150878906
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.31576943397522,
+      "success": true
+    },
+    {
+      "id": 13,
+      "question": "What is the NPL ratio for Qatar's banking sector?",
+      "type": "text",
+      "category": "financial_sector",
+      "expected_answer": "Around 4%",
+      "answer": "I'm sorry, but the provided context does not contain information about the Non-Performing Loan (NPL) ratio for Qatar's banking sector.",
+      "answer_preview": "I'm sorry, but the provided context does not contain information about the Non-Performing Loan (NPL) ratio for Qatar's banking sector.",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3583172559738159
+        },
+        {
+          "source_id": 2,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3583172559738159
+        },
+        {
+          "source_id": 3,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3583172559738159
+        },
+        {
+          "source_id": 4,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3583172559738159
+        },
+        {
+          "source_id": 5,
+          "page": 41,
+          "type": "text",
+          "relevance": 0.3356199860572815
+        }
+      ],
+      "num_sources": 5,
+      "latency": 0.7379705905914307,
+      "success": true
+    },
+    {
+      "id": 14,
+      "question": "What are the key goals of Qatar's Third Financial Sector Strategy (FSS3)?",
+      "type": "text",
+      "category": "financial_sector",
+      "expected_answer": "Promote savings, develop insurance, foster fintech, achieve financial inclusion",
+      "answer": "The key goals of Qatar's Third Financial Sector Strategy (3FSS) covering the period 2023-2030 include focusing on governance and regulatory oversight; Islamic finance; digital innovation and advanced technologies; ESG and sustainability; and talent and capabilities, with the aim to create vibrant financial and capital markets that lead the region in innovation and efficiency [Source 1, Page 77]. The strategy is expected to provide impetus for sustainable growth in Qatar's financial sector [Source 5, Page 76].",
+      "answer_preview": "The key goals of Qatar's Third Financial Sector Strategy (3FSS) covering the period 2023-2030 include focusing on governance and regulatory oversight; Islamic finance; digital innovation and advanced technologies; ESG and sustainability; and talent and capabilities, with the aim to create vibrant fi...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.6274822950363159
+        },
+        {
+          "source_id": 2,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.6274822950363159
+        },
+        {
+          "source_id": 3,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.6274822950363159
+        },
+        {
+          "source_id": 4,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.6274822950363159
+        },
+        {
+          "source_id": 5,
+          "page": 76,
+          "type": "text",
+          "relevance": 0.5000568926334381
+        }
+      ],
+      "num_sources": 5,
+      "latency": 1.3829660415649414,
+      "success": true
+    },
+    {
+      "id": 15,
+      "question": "What is Qatar's medium-term GDP growth projection?",
+      "type": "text",
+      "category": "economic_projections",
+      "expected_answer": "4.75% on average",
+      "answer": "Based on the provided information from the IMF Article IV report, Qatar's medium-term GDP growth projection is expected to improve to 2 percent in 2024–25 [Source 1, Page 13].",
+      "answer_preview": "Based on the provided information from the IMF Article IV report, Qatar's medium-term GDP growth projection is expected to improve to 2 percent in 2024–25 [Source 1, Page 13].",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5466620028018951
+        },
+        {
+          "source_id": 2,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5466620028018951
+        },
+        {
+          "source_id": 3,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5466620028018951
+        },
+        {
+          "source_id": 4,
+          "page": 13,
+          "type": "text",
+          "relevance": 0.5466620028018951
+        },
+        {
+          "source_id": 5,
+          "page": 4,
+          "type": "text",
+          "relevance": 0.5216229259967804
+        }
+      ],
+      "num_sources": 5,
+      "latency": 41.84426951408386,
+      "success": true
+    },
+    {
+      "id": 16,
+      "question": "What are Qatar's main structural reform priorities?",
+      "type": "text",
+      "category": "structural_reforms",
+      "expected_answer": "Enhance human capital, innovation, business efficiency, attract FDI, trade diversification",
+      "answer": "Based on the provided context, Qatar's main structural reform priorities are guided by the Third National Development Strategy (NDS3) for the period 2024-2030. The NDS3 is the final phase of the Qatar National Vision 2030, which was launched in 2008. The authorities in Qatar are focused on accelerating structural reforms through a large number of initiatives and projects outlined in the NDS3 [Source 5, Page 77]. These reforms aim to prioritize diversification of the economy away from hydrocarbons and towards a more sustainable and diversified economic base. The newly established National Planning Council plays a key role in prioritizing these reforms, ensuring inter-agency coordination, and monitoring progress [Source 1-4, Page 31]. As a result of these efforts, Qatar's nonhydrocarbon economy has grown significantly, now accounting for about two-thirds of the total output, highlighting the country's commitment to long-term economic diversification.",
+      "answer_preview": "Based on the provided context, Qatar's main structural reform priorities are guided by the Third National Development Strategy (NDS3) for the period 2024-2030. The NDS3 is the final phase of the Qatar National Vision 2030, which was launched in 2008. The authorities in Qatar are focused on accelerat...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 31,
+          "type": "text",
+          "relevance": 0.3181917071342468
+        },
+        {
+          "source_id": 2,
+          "page": 31,
+          "type": "text",
+          "relevance": 0.3181917071342468
+        },
+        {
+          "source_id": 3,
+          "page": 31,
+          "type": "text",
+          "relevance": 0.3181917071342468
+        },
+        {
+          "source_id": 4,
+          "page": 31,
+          "type": "text",
+          "relevance": 0.3181917071342468
+        },
+        {
+          "source_id": 5,
+          "page": 77,
+          "type": "text",
+          "relevance": 0.31414294242858887
+        }
+      ],
+      "num_sources": 5,
+      "latency": 22.256999492645264,
+      "success": true
+    },
+    {
+      "id": 17,
+      "question": "What is Qatar's LNG production expansion target?",
+      "type": "text",
+      "category": "hydrocarbon_sector",
+      "expected_answer": "85% increase by 2030",
+      "answer": "Based on the provided context, Qatar's LNG production expansion target is not explicitly mentioned in the IMF Article IV report excerpts provided. Therefore, the specific target for Qatar's LNG production expansion is not available in the given information. [Source 5, Page 76]",
+      "answer_preview": "Based on the provided context, Qatar's LNG production expansion target is not explicitly mentioned in the IMF Article IV report excerpts provided. Therefore, the specific target for Qatar's LNG production expansion is not available in the given information. [Source 5, Page 76]",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 17,
+          "type": "text",
+          "relevance": 0.36073774099349976
+        },
+        {
+          "source_id": 2,
+          "page": 17,
+          "type": "text",
+          "relevance": 0.36073774099349976
+        },
+        {
+          "source_id": 3,
+          "page": 17,
+          "type": "text",
+          "relevance": 0.36073774099349976
+        },
+        {
+          "source_id": 4,
+          "page": 17,
+          "type": "text",
+          "relevance": 0.36073774099349976
+        },
+        {
+          "source_id": 5,
+          "page": 76,
+          "type": "text",
+          "relevance": 0.33962684869766235
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.230173349380493,
+      "success": true
+    },
+    {
+      "id": 18,
+      "question": "What is Qatar's central bank reserve level?",
+      "type": "table",
+      "category": "external_sector",
+      "expected_answer": "$51.5 billion in 2023",
+      "answer": "Based on the provided context, the information regarding Qatar's central bank reserve level is not explicitly mentioned in the IMF Article IV report excerpts provided. Therefore, the specific central bank reserve level for Qatar is not available in the given text. [Source 5, Page 43]",
+      "answer_preview": "Based on the provided context, the information regarding Qatar's central bank reserve level is not explicitly mentioned in the IMF Article IV report excerpts provided. Therefore, the specific central bank reserve level for Qatar is not available in the given text. [Source 5, Page 43]",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3860584497451782
+        },
+        {
+          "source_id": 2,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3860584497451782
+        },
+        {
+          "source_id": 3,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3860584497451782
+        },
+        {
+          "source_id": 4,
+          "page": 38,
+          "type": "text",
+          "relevance": 0.3860584497451782
+        },
+        {
+          "source_id": 5,
+          "page": 43,
+          "type": "text",
+          "relevance": 0.3684960603713989
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.68803358078003,
+      "success": true
+    },
+    {
+      "id": 19,
+      "question": "What climate goals does Qatar have for 2030?",
+      "type": "text",
+      "category": "climate",
+      "expected_answer": "20% renewable energy capacity, 25% GHG reduction",
+      "answer": "Qatar has set climate goals for 2030, aiming to meet its targets as outlined in the Qatar National Vision 2030. The Ministry of Environment and Climate Change has launched its 2024 – 2030 Strategy to support environmental sustainability, enhance Qatar’s ability to adapt to climate change, protect the environment, and conserve its natural resources. This strategy will advance sustainable environmental practices while supporting research, innovation, and digital transformation [Source 1, Page 78]. The specific details of these climate goals are not explicitly mentioned in the provided context.",
+      "answer_preview": "Qatar has set climate goals for 2030, aiming to meet its targets as outlined in the Qatar National Vision 2030. The Ministry of Environment and Climate Change has launched its 2024 – 2030 Strategy to support environmental sustainability, enhance Qatar’s ability to adapt to climate change, protect th...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 78,
+          "type": "text",
+          "relevance": 0.5846092998981476
+        },
+        {
+          "source_id": 2,
+          "page": 78,
+          "type": "text",
+          "relevance": 0.5846092998981476
+        },
+        {
+          "source_id": 3,
+          "page": 78,
+          "type": "text",
+          "relevance": 0.5846092998981476
+        },
+        {
+          "source_id": 4,
+          "page": 78,
+          "type": "text",
+          "relevance": 0.5846092998981476
+        },
+        {
+          "source_id": 5,
+          "page": 68,
+          "type": "text",
+          "relevance": 0.5368513464927673
+        }
+      ],
+      "num_sources": 5,
+      "latency": 21.974122285842896,
+      "success": true
+    },
+    {
+      "id": 20,
+      "question": "What is the assessment of Qatar's external position in 2023?",
+      "type": "text",
+      "category": "external_sector",
+      "expected_answer": "Moderately stronger than fundamentals suggest",
+      "answer": "Based on the IMF Article IV report, the assessment of Qatar's external position in 2023 is that it was moderately stronger than the level implied by medium-term fundamentals and desirable policies. This assessment is based on the External Balance Assessment (EBA-Lite) regression model, which yielded a positive Current Account (CA) gap of 2.0 percent of GDP [Source 1, Page 51]. The REER regression model suggested a negative CA gap of -4.7 percent of GDP but was considered less suitable for Qatar due to its currency peg. The report highlighted that tourism remained robust, fiscal prudence was maintained, but hydrocarbon prices normalized and exports declined in 2023 [Source 5, Page 50].",
+      "answer_preview": "Based on the IMF Article IV report, the assessment of Qatar's external position in 2023 is that it was moderately stronger than the level implied by medium-term fundamentals and desirable policies. This assessment is based on the External Balance Assessment (EBA-Lite) regression model, which yielded...",
+      "sources": [
+        {
+          "source_id": 1,
+          "page": 51,
+          "type": "text",
+          "relevance": 0.5442144572734833
+        },
+        {
+          "source_id": 2,
+          "page": 51,
+          "type": "text",
+          "relevance": 0.5442144572734833
+        },
+        {
+          "source_id": 3,
+          "page": 51,
+          "type": "text",
+          "relevance": 0.5442144572734833
+        },
+        {
+          "source_id": 4,
+          "page": 51,
+          "type": "text",
+          "relevance": 0.5442144572734833
+        },
+        {
+          "source_id": 5,
+          "page": 50,
+          "type": "text",
+          "relevance": 0.504561185836792
+        }
+      ],
+      "num_sources": 5,
+      "latency": 22.030776023864746,
+      "success": true
+    }
+  ]
+}

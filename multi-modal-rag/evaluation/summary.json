@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-30T09:48:07.965867",
+  "metrics": {
+    "total_questions": 20,
+    "successful": 20,
+    "failed": 0,
+    "success_rate": 100.0,
+    "avg_latency": 17.71,
+    "avg_sources_per_query": 5.0
+  }
+}

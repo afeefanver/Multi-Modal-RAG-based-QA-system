@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Qatar's real GDP growth in 2023?",
+      "expected_answer": "1.2%",
+      "type": "text",
+      "category": "economic_indicators"
+    },
+    {
+      "id": 2,
+      "question": "What was Qatar's non-hydrocarbon GDP growth in 2023?",
+      "expected_answer": "1.1%",
+      "type": "text",
+      "category": "economic_indicators"
+    },
+    {
+      "id": 3,
+      "question": "What is Qatar's fiscal surplus target for 2030 according to NDS3?",
+      "expected_answer": "5.5% of GDP",
+      "type": "text",
+      "category": "fiscal_policy"
+    },
+    {
+      "id": 4,
+      "question": "What is the capital adequacy ratio for Qatar's banks?",
+      "expected_answer": "Close to 20%",
+      "type": "text",
+      "category": "financial_sector"
+    },
+    {
+      "id": 5,
+      "question": "What are Qatar's projected GDP growth rates for 2024-2025?",
+      "expected_answer": "2% for both years",
+      "type": "table",
+      "category": "economic_projections"
+    },
+    {
+      "id": 6,
+      "question": "What is Qatar's current account surplus as percent of GDP in 2023?",
+      "expected_answer": "17.1%",
+      "type": "table",
+      "category": "external_sector"
+    },
+    {
+      "id": 7,
+      "question": "What is Qatar's central government debt as percent of GDP in 2023?",
+      "expected_answer": "43.7%",
+      "type": "table",
+      "category": "fiscal_policy"
+    },
+    {
+      "id": 8,
+      "question": "What are the main downside risks to Qatar's economic outlook?",
+      "expected_answer": "Global growth slowdown, commodity price volatility, geopolitical tensions, real estate weakness",
+      "type": "text",
+      "category": "risk_assessment"
+    },
+    {
+      "id": 9,
+      "question": "What is the Third National Development Strategy (NDS3)?",
+      "expected_answer": "Strategy to build diversified, knowledge-based, private sector-led economy",
+      "type": "text",
+      "category": "policy"
+    },
+    {
+      "id": 10,
+      "question": "What is Qatar's inflation rate projection for 2024?",
+      "expected_answer": "1.0%",
+      "type": "table",
+      "category": "economic_indicators"
+    },
+    {
+      "id": 11,
+      "question": "What fiscal policy recommendations did the IMF make?",
+      "expected_answer": "Accelerate revenue diversification, introduce VAT, improve spending efficiency",
+      "type": "text",
+      "category": "fiscal_policy"
+    },
+    {
+      "id": 12,
+      "question": "What is Qatar's hydrocarbon export projection for 2024?",
+      "expected_answer": "Around $82.9 billion",
+      "type": "table",
+      "category": "external_sector"
+    },
+    {
+      "id": 13,
+      "question": "What is the NPL ratio for Qatar's banking sector?",
+      "expected_answer": "Around 4%",
+      "type": "text",
+      "category": "financial_sector"
+    },
+    {
+      "id": 14,
+      "question": "What are the key goals of Qatar's Third Financial Sector Strategy (FSS3)?",
+      "expected_answer": "Promote savings, develop insurance, foster fintech, achieve financial inclusion",
+      "type": "text",
+      "category": "financial_sector"
+    },
+    {
+      "id": 15,
+      "question": "What is Qatar's medium-term GDP growth projection?",
+      "expected_answer": "4.75% on average",
+      "type": "text",
+      "category": "economic_projections"
+    },
+    {
+      "id": 16,
+      "question": "What are Qatar's main structural reform priorities?",
+      "expected_answer": "Enhance human capital, innovation, business efficiency, attract FDI, trade diversification",
+      "type": "text",
+      "category": "structural_reforms"
+    },
+    {
+      "id": 17,
+      "question": "What is Qatar's LNG production expansion target?",
+      "expected_answer": "85% increase by 2030",
+      "type": "text",
+      "category": "hydrocarbon_sector"
+    },
+    {
+      "id": 18,
+      "question": "What is Qatar's central bank reserve level?",
+      "expected_answer": "$51.5 billion in 2023",
+      "type": "table",
+      "category": "external_sector"
+    },
+    {
+      "id": 19,
+      "question": "What climate goals does Qatar have for 2030?",
+      "expected_answer": "20% renewable energy capacity, 25% GHG reduction",
+      "type": "text",
+      "category": "climate"
+    },
+    {
+      "id": 20,
+      "question": "What is the assessment of Qatar's external position in 2023?",
+      "expected_answer": "Moderately stronger than fundamentals suggest",
+      "type": "text",
+      "category": "external_sector"
+    }
+  ]
+}
