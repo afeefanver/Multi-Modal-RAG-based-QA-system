@@ -16,9 +16,13 @@ openai==1.35.10
 chromadb==0.5.4
 
 # Document Processing
-unstructured==0.16.24
-unstructured-client==0.23.5
-pymupdf==1.23.8
+pymupdf==1.24.10
+camelot-py[cv]==0.11.0
+tabula-py==2.9.0
+pytesseract==0.3.10
+Pillow==10.4.0
+pdf2image==1.17.0
+
 
 # Remove camelot-py (not supported on cloud)
 # Remove tabula-py (requires Java environment)
@@ -48,4 +52,5 @@ tqdm==4.66.1
 
 # Evaluation
 ragas==0.1.10
+
 
