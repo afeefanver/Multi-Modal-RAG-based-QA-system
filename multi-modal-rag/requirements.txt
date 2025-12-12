@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Core ML/AI Libraries
 langchain==0.1.20
 langchain-community==0.2.7
@@ -15,26 +7,14 @@ openai==1.35.10
 # Vector Database
 chromadb==0.5.4
 
-# Document Processing
+# Document Processing (CLOUD-SAFE)
 pymupdf==1.24.10
-camelot-py[cv]==0.11.0
-tabula-py==2.9.0
 pytesseract==0.3.10
 Pillow==10.4.0
 pdf2image==1.17.0
 
-
-# Remove camelot-py (not supported on cloud)
-# Remove tabula-py (requires Java environment)
-
-pytesseract==0.3.10
-Pillow==10.2.0
-pdf2image==1.17.0
-
 # Embeddings
 sentence-transformers==2.7.0
-# Remove faiss-cpu (not available for Python 3.12/3.13)
-# Use Chroma + sentence-transformers embeddings instead
 
 # Text Processing
 rank-bm25==0.2.2
@@ -52,5 +32,3 @@ tqdm==4.66.1
 
 # Evaluation
 ragas==0.1.10
-
-
